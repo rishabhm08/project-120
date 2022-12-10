@@ -1,0 +1,18 @@
+body {
+    background-color:aquamarine;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ #Image_1 {
+    height: 200px;
+    width: 750px;
+    background-color:burlywood;
+    padding-left: 30px;
+    margin-right: 30px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    text-align: left;
+    border-radius: 50px;
+    border-color:brown;
+    color: blue;
+}
